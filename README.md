@@ -2,7 +2,7 @@
 <h3 align="center">Essa aplicação em Node.js permite demonstrar um chatbot criado através do IBM Watson Assistant.</h3>
 
 A aplicação [assistant-simple][assistant_simple_url] foi utilizada para a demonstração deste chatbot.
-É possível ver esta aplicação funcionando em [https://car-bot-ia.mybluemix.net/]
+É possível ver esta aplicação funcionando em https://car-bot-ia.mybluemix.net/
 
 ## License
 
@@ -14,4 +14,4 @@ Full license text is available in [LICENSE](LICENSE).
 Find more open source projects on the
 [IBM Github Page](http://ibm.github.io/).
 
-[assistant_simple_url] https://github.com/watson-developer-cloud/assistant-simple 
+[assistant_simple_url]: https://github.com/watson-developer-cloud/assistant-simple 
