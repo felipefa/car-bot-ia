@@ -1,8 +1,8 @@
-<h1 align="center" style="border-bottom: none;">CarBot</h1>
+<h1 align="center" style="border-bottom: none;">car-bot-ia</h1>
 <h3 align="center">Essa aplicação em Node.js permite demonstrar um chatbot criado através do IBM Watson Assistant.</h3>
 
 A aplicação [assistant-simple][assistant_simple_url] foi utilizada para a demonstração deste chatbot.
-É possível ver esta aplicação funcionando em https://car-bot-ia.mybluemix.net/
+É possível ver o car-bot-ia funcionando em https://car-bot-ia.mybluemix.net/
 
 ## License
 
