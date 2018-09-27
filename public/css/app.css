@@ -131,7 +131,7 @@ div {
   color: #fff;
   letter-spacing: 0.015rem;
   line-height: 1.3125rem;
-  background: #00B4A0;
+  background: #0b486b;
   border-radius: 1.25rem;
   border-bottom-right-radius: 0;
   text-align: left;
@@ -157,7 +157,7 @@ div {
   right: 0;
   height: 0.375rem;
   width: 0.5rem;
-  background: #1cb3a0;
+  background: #0b486b;
 }
 
 .from-user .message-inner:after {
@@ -219,7 +219,7 @@ div {
 }
 
 #textInput.underline {
-  border-bottom: 2px solid #00B4A0;
+  border-bottom: 2px solid #0b486b;
 }
 
 ::-webkit-input-placeholder {
@@ -309,7 +309,7 @@ pre {
 }
 
 .string {
-  color: #54EED0;
+  color: #fdca40;
 }
 
 .boolean, .null, .number {
